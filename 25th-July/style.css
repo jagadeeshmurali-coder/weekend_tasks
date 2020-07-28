@@ -1,0 +1,22 @@
+h1{
+   text-align: center;
+    color: black;
+}
+body(
+  font-family:cursive;
+  background-color:blue;
+)
+.deco{
+	font-weight:bold;
+}
+header{
+	background-color:green;
+}
+footer{
+	text-align:center;
+	background-color:gray;
+	color:black;
+}
+.mid{
+   background-color:yellow;
+}
