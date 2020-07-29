@@ -1,0 +1,22 @@
+A JavaScript object is an entity having state and behavior (properties and method). For example: car, pen, bike, chair, glass, keyboard, monitor etc.
+JavaScript is an object-based language. Everything is an object in JavaScript.
+JavaScript is template based not class based. Here, we don't create class to get the object. But, we direct create objects.
+A JavaScript object is a collection of named values
+Objects in JavaScript, just as in many other programming languages, can be compared to objects in real life. The concept of objects in JavaScript can be understood with real life, tangible objects..
+A JavaScript object has properties associated with it. A property of an object can be explained as a variable that is attached to the object. Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. The properties of an object define the characteristics of the object. You access the properties of an object with a simple dot-notation:
+objectName.propertyName
+Example:
+var propertyName = 'make';
+myCar[propertyName] = 'Ford';
+propertyName = 'model';
+myCar[propertyName] = 'Mustang';
+Creating an object:
+let user = {     // an object
+  name: "John",  // by key "name" store value "John"
+  age: 30        // by key "age" store value 30
+};
+
+Methods are actions that can be performed on objects.
+Object properties can be both primitive values, other objects, and functions.
+An object method is an object property containing a function definition.
+

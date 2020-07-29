@@ -1,0 +1,11 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>Open-API</title>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script src="api_key.js"></script>
+  </body>
+</html>
