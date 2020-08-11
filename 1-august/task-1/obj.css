@@ -1,0 +1,22 @@
+h1{
+   text-align: center;
+   color: #484146;
+}
+body{
+    font-family: cursive;
+    background-color: #dec3ha;
+}
+header{
+  background-color: #6e7e83;
+font-weight: bold;
+}
+footer{
+    text-align: center;
+    font-weight: bold;
+  background-color: #7a7c50;
+color: #decdd8;
+}
+
+#end{
+	 background-color:yellow;
+}
