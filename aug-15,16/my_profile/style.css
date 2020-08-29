@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.4rem;
+    height: 2150px;
+}
+.top{
+    background-color: #348923;
+    height: 390px;
+    text-align: center;
+}
+.res_image{
+    position: relative;
+    top: 60px;
+    width:200px;
+    height:200px;
+    object-fit:cover;
+    border-radius: 50%;
+    border: 70px dotted #FABC2B;
+    border-width: thick;
+    padding: 3px;
+    vertical-align: middle;
+}
+.lay{
+    background-color: #EEEEEE;
+    width: 100%;
+    height: 35px;
+    position: absolute;
+    bottom: 215px;
+}
+.major{
+    background-color: #FABE28;
+    position: absolute;
+    margin: auto;
+    top: 227px;
+    left: 32%;
+    height: 140px;
+    width: 500px;
+    border-radius: 77px;
+}
+.name{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
+    font-size: 5.3rem;
+    position: relative;
+    top: 15px;
+}
+.txt_add{
+    text-align: center;
+    margin: 18px;
+}
+
+.major_one, .major_two{
+    padding: 4%;
+    width: 41.9%;
+    display: inline-block;
+    height: 1500px
+}
+.major_one{
+    border-right: 1px solid #CCCCCC;
+}
+.major_two{
+    float: right;
+}
+.icons{
+    background-color: #565656;
+    height: 48px;
+    width: 48px;
+    border-radius: 50%;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    position: relative;
+    top: 1px;
+    left: 1px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 4px dashed #058976;
+    align-content: center;
+    float: left;
+}
+.skill-names{
+    display: inline-block;
+    width :40%;
+    height: 50px;
+}
+.skill-range{
+    float: right;
+    width: 50%;
+    height: 50px;
+}
+.sk{
+    display: inline-block;
+    width: 70%;
+    margin-bottom: auto;
+    padding: 7.5%;
+}
+
+li{
+    margin-bottom: 15px;
+}
